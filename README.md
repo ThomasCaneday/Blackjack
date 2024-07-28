@@ -14,11 +14,11 @@ Python program for playing a simplified version of Blackjack where a player comp
 ## How to Run
 1. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/blackjack-player-vs-dealer.git
+    git clone https://github.com/thomascaneday/blackjack.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd blackjack-player-vs-dealer
+    cd blackjack
     ```
 3. Run the game:
     ```sh
